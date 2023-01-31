@@ -5,5 +5,5 @@ s2 = "Adios"
 
 mitad_s1 = int(len(s1) / 2)
 
-nueva_cad = s1[0:mitad_s1] + s2 + s1[2:len(s1)]
+nueva_cad = s1[0:mitad_s1] + s2 + s1[mitad_s1:len(s1)]
 print(nueva_cad)

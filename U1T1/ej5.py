@@ -1,6 +1,6 @@
 # Cuente todas las minúsculas, mayúsculas, dígitos y símbolos especiales de una cadena determinada
 
-str = "C@#he26ma^&amp;Du5ran"
+str = "C@#he26ma^&Du5ran"
 
 num_caracteres = 0
 num_digitos = 0
